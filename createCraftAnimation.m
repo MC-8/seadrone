@@ -1,6 +1,6 @@
 x = 0:0.01:1;
 figure(1)
-filename = 'testnew541.gif';
+filename = 'testnew5451.gif';
 for n = 1:0.5:5
       y = x.^n;
       plot(x,y)
